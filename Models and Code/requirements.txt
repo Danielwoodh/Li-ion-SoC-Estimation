@@ -1,0 +1,9 @@
+numpy
+filterpy
+pandas
+seaborn
+matplotlib
+scipy
+scikit-learn
+tensorflow
+git+https://github.com/tensorflow/docs
