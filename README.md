@@ -1,6 +1,6 @@
 # Li-ion-SoC-Estimation
 
-This repository outlines a project undertaken at Newcastle University to estimate the SoC of a Li-ion battery whilst under heavy use using various machine-learning techniques.
+This repository outlines a project undertaken to estimate the SoC of a Li-ion battery whilst under heavy use using various machine-learning techniques.
 
 It utilises a dataset based of a Panasonic 18650PF Li-ion battery found here: https://data.mendeley.com/datasets/wykht8y7tg/1
 
