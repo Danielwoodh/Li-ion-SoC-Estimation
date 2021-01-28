@@ -11,9 +11,7 @@ The '*Graphs and Visualised Data*' folder contains all graphs that were produced
 
 The '*Models and Code*' folder contains the '*csv-data*', where the CSV data-files used in this project are stored. It also contains the '*Battery_Analysis.ipynb*' Jupyter Notebook which contains the code and models built for this project. The '*data-read.py*' file was created to convert the data-set from a .Mat format to CSV format. The '*requirements.txt*' file contains the library requirements needed to run the Jupyter Notebook.
 
-The '*Woodhall_Poster.pptx*' contains the poster that was produced to present the results of the project, giving a brief overview of the entire project.
-
-The '*Woodhall_Report.pdf*' file contains the report that was produced to accompany this project, including Literature Review, Methodology, Results & Discussion. It contains further information and details on the issues inherent with Li-ion SoC estimation and proposes a Battery Monitoring System that could be used to produce a custom data-set.
+The '*Report.pdf*' file contains the report that was produced to accompany this project, including Literature Review, Methodology, Results & Discussion. It contains further information and details on the issues inherent with Li-ion SoC estimation and proposes a Battery Monitoring System that could be used to produce a custom data-set.
 
 ## Installation
 
